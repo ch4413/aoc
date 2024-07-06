@@ -11,3 +11,5 @@ var yourself = {
         }
     }
 };
+
+console.log('Fib sequence for ' + '6' + '\n' + yourself.fibonacci(6))
