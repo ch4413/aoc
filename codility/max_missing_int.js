@@ -1,4 +1,4 @@
-console.log('Max Missing values. Run test cases...')
+console.log('Max Missing values. Run ')
 
 function findSmallestMissingPositiveInteger(A) {
     // Filter out non-positive numbers and sort the array
